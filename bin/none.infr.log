@@ -1,0 +1,37 @@
+Batch: 0
+Utilization:          0.000000
+Number of servers on: 0
+Number of busy cores: 0
+Nodes energy:         1146.505972
+Switches energy:      20255.340000
+Total energy:         21401.845972
+Batch: 1
+Utilization:          0.000000
+Number of servers on: 0
+Number of busy cores: 0
+Nodes energy:         1198.920417
+Switches energy:      20280.155556
+Total energy:         21479.075972
+Batch: 2
+Utilization:          0.000000
+Number of servers on: 0
+Number of busy cores: 0
+Nodes energy:         1264.756667
+Switches energy:      20242.744444
+Total energy:         21507.501111
+Batch: 3
+Utilization:          0.000000
+Number of servers on: 0
+Number of busy cores: 0
+Nodes energy:         1265.063056
+Switches energy:      20231.224444
+Total energy:         21496.287500
+Batch: 4
+Utilization:          0.000000
+Number of servers on: 0
+Number of busy cores: 0
+Nodes energy:         322.236424
+Switches energy:      6367.308889
+Total energy:         6689.545312
+
+___________________________________

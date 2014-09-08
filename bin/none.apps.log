@@ -1,0 +1,58 @@
+Batch: 0
+Num applications:        0
+Num requests:            65561
+Time request:            257.932892
+Time request(proc):      252.646133
+Time request(network):   4.763945
+f1:                      nan
+f2:                      nan
+ptotal:                  nan
+Hypervolume:             nan
+Batch: 1
+Num applications:        0
+Num requests:            71169
+Time request:            256.235382
+Time request(proc):      250.955643
+Time request(network):   4.764687
+f1:                      nan
+f2:                      nan
+ptotal:                  nan
+Hypervolume:             nan
+Batch: 2
+Num applications:        0
+Num requests:            78483
+Time request:            256.571808
+Time request(proc):      251.285980
+Time request(network):   4.770600
+f1:                      nan
+f2:                      nan
+ptotal:                  nan
+Hypervolume:             nan
+Batch: 3
+Num applications:        0
+Num requests:            78308
+Time request:            256.558441
+Time request(proc):      251.268066
+Time request(network):   4.769270
+f1:                      nan
+f2:                      nan
+ptotal:                  nan
+Hypervolume:             nan
+Batch: 4
+Num applications:        0
+Num requests:            16307
+Time request:            255.661560
+Time request(proc):      250.393021
+Time request(network):   4.756730
+f1:                      nan
+f2:                      nan
+ptotal:                  nan
+Hypervolume:             nan
+
+___________________________________
+Mean f1:               nan
+Std Dev f1:            nan
+Mean f2:               nan
+Std Dev f2:            nan
+Mean ptotal:           nan
+Std Dev ptotal:        nan

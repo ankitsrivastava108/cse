@@ -1,0 +1,49 @@
+Batch: 0
+Num applications:        77
+Num requests:            6249472
+Time request:            570.193665
+Time request(proc):      542.385132
+Time request(network):   5.085343
+f1:                      672937.437500
+f2:                      32.779221
+ptotal:                  469.779236
+pmin:                     336.714294
+Hypervolume:             0.000000
+Batch: 1
+Num applications:        85
+Num requests:            5664954
+Time request:            551.653503
+Time request(proc):      528.451355
+Time request(network):   5.159047
+f1:                      790096.937500
+f2:                      34.164707
+ptotal:                  457.058838
+pmin:                     325.152954
+Hypervolume:             0.000000
+Batch: 2
+Num applications:        79
+Num requests:            5923619
+Time request:            543.522278
+Time request(proc):      516.139282
+Time request(network):   5.125679
+f1:                      615568.312500
+f2:                      27.569620
+ptotal:                  446.139252
+pmin:                     298.037964
+Hypervolume:             0.000000
+
+___________________________________
+Mean time request:      555.123108
+Std Dev time request:  11.161528
+Mean request proc:      528.991882
+Std Dev request proc:  10.721639
+Mean time network:      5.123356
+Std Dev time network:  0.030134
+Mean f1:               692867.562500
+Std Dev f1:            72631.343750
+Mean f2:               31.504515
+Std Dev f2:            2.839301
+Mean ptotal:           457.659088
+Std Dev ptotal:        9.660313
+Mean pmin:             319.968414
+Std Dev pmin:          16.209551

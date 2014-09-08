@@ -1,0 +1,29 @@
+Batch: 0
+Utilization:          0.334219
+Number of servers on: 241
+Number of busy cores: 1445
+Nodes energy:         59651.800000
+Switches energy:      57459.884444
+Total energy:         117111.684444
+Batch: 1
+Utilization:          1.004734
+Number of servers on: 246
+Number of busy cores: 1449
+Nodes energy:         63901.902222
+Switches energy:      57564.808889
+Total energy:         121466.711111
+Batch: 2
+Utilization:          1.335689
+Number of servers on: 310
+Number of busy cores: 1663
+Nodes energy:         68115.515556
+Switches energy:      57336.746667
+Total energy:         125452.262222
+
+___________________________________
+Mean nodes energy:         63.889740
+Std Dev nodes energy:         3.455308
+Mean switches energy:      57.453815
+Std Dev switches energy:      0.093205
+Mean total energy:         121.343559
+Std Dev total energy:         3.406140
